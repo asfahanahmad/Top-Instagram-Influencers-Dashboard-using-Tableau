@@ -77,7 +77,3 @@ This dashboard helps users to:
 **Asfahan Ahmad**
 
 MBA Marketing | Business Analytics | Tableau | Power BI | Data Visualization
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
